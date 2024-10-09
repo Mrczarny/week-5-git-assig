@@ -13,7 +13,7 @@ void loop() {
   // put your main code here, to run repeatedly:
 }
 
-// put function definitions here:
-int myFunction(int x, int y) {
+// This program calculates the sum for 2 numbers.
+int Sum(int x, int y) {
   return x + y;
 }
